@@ -1,21 +1,16 @@
 # Change these first
-owner: muyan556 # Your GitHub organization or username, where this repository lives  
-repo: upptime # The name of this repository  
+owner: muyan556   
+repo: upptime   
 
 sites:
   - name: Server  
-    url: https://muyan556.serv00.net  
+    url: https://muyan556.serv00.net
   - name: Blog
-    url: https://muyan.us.kg
-  - name: IPv6 test
-    url: forwardemail.net  
-    port: 80
-    check: "tcp-ping"  
-    ipv6: true
+    url: https://muyan.us.kg  
 
-status-website:
-  baseUrl: /upptime # where "repo" is your repository name
-  name: Your Status Website  
+status-website:  
+  baseUrl: /upptime
+  name: Website    
 
-# Upptime also supports notifications, assigning issues, and more  
-# See https://upptime.js.org/docs/configuration
+# Upptime also supports notifications, assigning issues, and more    
+# See https://upptime.js.org/docs/configuration  
