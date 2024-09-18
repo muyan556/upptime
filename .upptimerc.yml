@@ -1,16 +1,28 @@
-# Change these first
-owner: muyan556 
-repo: upptime 
+#你的GitHub username 
+owner: muyan556
 
+#你的GitHub repo name 
+repo: upptime
+
+
+#下边写的时候一定注意代码的缩进让，“-” 都在同一个竖线上，“name”和“url”也都在同一个竖线上，层次不齐的代码高几率直接报错
 sites:
   - name: Server
-    url: https://muyan556.serv00.net
+    url:  $SITE_SERVER
   - name: Blog
-    url: https://muyan.us.kg
+    url:  $SITE_BLOG
 
-status-website:
+# A-如果你的监控控制台页面，打算使用github的默认域名，则使用如下设置。和下边B设置互斥，请二选一
+status-website: 
   baseUrl: /upptime
-  name: Website
 
-# Upptime also supports notifications, assigning issues, and more    
-# See https://upptime.js.org/docs/configuration
+#自定义状态页面的navbar名称与链接
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg    
+  name: Upptime
+  introTitle: Upptime
+  introMessage: Upptime
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/OWNER/REPO
