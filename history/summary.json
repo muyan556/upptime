@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 854,
-    "timeDay": 973,
-    "timeWeek": 854,
-    "timeMonth": 854,
-    "timeYear": 854,
-    "dailyMinutesDown": {
-      "2024-09-19": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 816,
+    "timeDay": 940,
+    "timeWeek": 816,
+    "timeMonth": 816,
+    "timeYear": 816,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3119,
-    "timeDay": 2272,
-    "timeWeek": 3119,
-    "timeMonth": 3119,
-    "timeYear": 3119,
+    "time": 3121,
+    "timeDay": 3132,
+    "timeWeek": 3121,
+    "timeMonth": 3121,
+    "timeYear": 3121,
     "dailyMinutesDown": {}
   }
 ]
