@@ -22,7 +22,7 @@
     "url": "$SITE_BLOG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 3410,
     "timeYear": 3410,
     "dailyMinutesDown": {
+      "2024-10-16": 0,
       "2024-10-03": 34,
       "2024-09-20": 17
     }
